@@ -49,7 +49,7 @@ const LandingPageComponent = () => {
                         </div>
                     </Link>
 
-                    <a href="https://www.canva.com/design/DAF-aep-ar0/ZLe59HShcFDL-T-F-rLIBA/edit" className="">
+                    {/* <a href="https://www.canva.com/design/DAF-aep-ar0/ZLe59HShcFDL-T-F-rLIBA/edit" className="">
                         <div className="flex flex-row items-center justify-center gap-4 p-2 m-2">
                             <button className="bg-slate-800 no-underline group cursor-pointer relative shadow-2xl shadow-zinc-900 rounded-full p-px text-xs font-semibold leading-6  text-white inline-block">
                                 <span className="absolute inset-0 overflow-hidden rounded-full">
@@ -77,7 +77,7 @@ const LandingPageComponent = () => {
                             </button>
                         </div>
 
-                    </a>
+                    </a> */}
                 </div>
 
             </div>
